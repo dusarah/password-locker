@@ -16,7 +16,7 @@ class TestUser(unittest.TestCase):
         self.new_user = User("sarah","Sara#") # create user object
 
 
-    def test_init(self):
+  def test_init(self):
         '''
         test_init test case to test if the object is initialized properly
         '''
