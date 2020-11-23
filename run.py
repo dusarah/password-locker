@@ -32,7 +32,7 @@ def create_new_credential(accname,userName,password):
 
 def login_user(username,password):
     """
-    
+  
     function that checks whether a user exist and then login the user in.
     """
   
