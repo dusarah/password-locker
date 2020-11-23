@@ -43,7 +43,6 @@ class TestCredentials(unittest.TestCase):
         '''
         self.new_credential = Credentials("Instagram","sarah","Tiana") # create credential object
 
-
     def test_init(self):
         '''
         test_init test case to test if the object is initialized properly
