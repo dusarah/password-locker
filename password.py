@@ -83,6 +83,7 @@ class Credentials:
     @classmethod
     def credential_exist(cls,accname):
         '''
+        
         Method that checks if a credential exists from the credential list.
         Returns :
             Boolean: True or false depending if the contact exists
